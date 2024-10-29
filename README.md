@@ -1,5 +1,5 @@
 # tg_channels_cbr
-# The dataset contains information on key Telegram channels focused on economic topics, with particular attention to the Bank of Russia.
+### The dataset contains information on key Telegram channels focused on economic topics, with particular attention to the Bank of Russia.
 We collected our initial list of Telegram channels by downloading data from TGStat, a site that catalogs nearly all existing Telegram channels, focusing on specific topics of interest:
 
 Economics (4,968 channels)
