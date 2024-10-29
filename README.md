@@ -2,12 +2,13 @@
 ### The dataset contains information on key Telegram channels focused on economic topics, with particular attention to the Bank of Russia.
 We collected our initial list of Telegram channels by downloading data from TGStat, a site that catalogs nearly all existing Telegram channels, focusing on specific topics of interest:
 
-Economics (4,968 channels)
-Blogs (14,790 channels)
-Cryptocurrency (6,389 channels)
-Business (4,488 channels)
-Politics (7,913 channels)
-News (13,260 channels)
+Economics (4,968 channels)  
+Blogs (14,790 channels)  
+Cryptocurrency (6,389 channels)  
+Business (4,488 channels)  
+Politics (7,913 channels)  
+News (13,260 channels)  
+
 This initial list contained over 50,000 channels. After downloading posts and filtering for those related to the Bank of Russia, we narrowed it down to 1,400 channels. Channels were selected based on the following criteria:
 
 The channel has an audience of over 1,000 users.
