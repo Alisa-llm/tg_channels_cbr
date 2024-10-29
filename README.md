@@ -14,3 +14,5 @@ This initial list contained over 50,000 channels. After downloading posts and fi
 The channel has an audience of over 1,000 users.
 Posts about the Bank of Russia make up more than 1.5% of total posts, with more than 8 posts on this topic per month, or such posts comprise over 10% of the channel’s monthly content.
 This final list effectively reflects the key sources discussing the Bank of Russia on Telegram, as it includes the majority of channels that regularly create content on this topic.
+
+Authors: Alisa Polekhina, Anna Guseva
